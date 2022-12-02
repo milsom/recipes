@@ -11,9 +11,7 @@ start="# Recipes
 
 ## Contents"
 
-end="🍇🍈🍉🍊🍋🍌🍍🍎🍏🍐🍑🍒🍓🥝🍅🥑🍆🥔🥕🌽🌶🥒🍄🥜🌰🍞🥐🥖🥞🧀🍖🍗🥓🍔🍟🍕🌭🌮🌯🍳🍲🥗🍿🍱🍘🍙🍚🍛🍜🍝🍠🍢🍣🍤🍥🍡🍦🍧🍨🍩🍪🎂🍰🍫🍬🍭🍮🍯🍼🥛☕🍵🍶🍾🍷🍸🍹🍺🍻🥂🥃🍽🍴🥄
-
-_Inspired by <https://github.com/shaniber/recipes>_"
+end="_Inspired by <https://github.com/shaniber/recipes>_"
 
 getMarkdownLinks() {
   for file in $(find . -iname "*.md" -not -name "README.md" -not -iname "*template*"); do
