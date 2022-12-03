@@ -24,7 +24,6 @@
 ### Main courses
 
 * [Curried Lentil Soup](./food/mains/curried-lentil-soup.md)
-* [Test](./food/mains/test.md)
 
 ### Pasta
 
@@ -66,16 +65,4 @@
 
 
 
-### Coffee and Tea
-
-
-
-### Brewing
-
-
-
-### Holiday
-
-
-
-_Inspired by <https://github.com/shaniber/recipes>_
+_Inspired by <https://github.com/chadlavi/recipes> and <https://github.com/shaniber/recipes>_
