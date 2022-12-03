@@ -39,7 +39,7 @@
 
 ### Sandwiches
 
-
+* [Smash Burgers](./food/sandwiches/smash-burgers.md)
 
 ### Snacks
 
@@ -63,6 +63,6 @@
 
 ### Cocktails
 
-
+* [White Lady](./drink/cocktails/white-lady.md)
 
 _Inspired by <https://github.com/chadlavi/recipes> and <https://github.com/shaniber/recipes>_
