@@ -23,7 +23,7 @@
 
 ### Main courses
 
-* [Curried Lentil Soup](./food/mains/curried-lentil-soup.md)
+
 
 ### Pasta
 
@@ -47,7 +47,7 @@
 
 ### Soup
 
-* [Curried Lentil Soup](./food/mains/curried-lentil-soup.md)
+* [Curried Lentil Soup](./food/soup/curried-lentil-soup.md)
 
 ### Cured and pickled
 
