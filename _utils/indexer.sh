@@ -11,7 +11,7 @@ start="# Recipes
 
 ## Contents"
 
-end="_Inspired by <https://github.com/shaniber/recipes>_"
+end="_Inspired by <https://github.com/chadlavi/recipes> and <https://github.com/shaniber/recipes>_"
 
 getMarkdownLinks() {
   for file in $(find . -iname "*.md" -not -name "README.md" -not -iname "*template*"); do
@@ -30,8 +30,8 @@ filter() {
 }
 
 markdownLinks="$(getMarkdownLinks)"
-holidayLinks="$(getHolidayLinks | sort)"
-drinkLinks="$(filter "$markdownLinks" drink | sort)"
+#holidayLinks="$(getHolidayLinks | sort)"
+#drinkLinks="$(filter "$markdownLinks" drink | sort)"
 foodLinks="$(filter "$markdownLinks" food | sort)"
 
 echo "$start
@@ -91,17 +91,5 @@ $(filter "$foodLinks" condiments-sauces-toppings)
 ### Cocktails
 
 $(filter "$drinkLinks" cocktails)
-
-### Coffee and Tea
-
-$(filter "$drinkLinks" coffee\|tea)
-
-### Brewing
-
-$(filter "$drinkLinks" beers)
-
-### Holiday
-
-$holidayLinks
 
 $end"
