@@ -20,7 +20,7 @@
 ### Main courses
 
 * [Oven-Roasted Chicken Thighs With Carrots and Yukon Gold Potatoes](./food/mains/oven-roasted-chicken-with-carrots-potatoes.md)
-* [Ratatoille](./food/mains/ratatoille.md)
+* [Ratatouille](./food/mains/ratatoille.md)
 
 ### Pasta
 
