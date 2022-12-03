@@ -9,7 +9,7 @@
 
 ## Contents
 
-### Breads
+### Bread
 
 * [Speedy No-Knead Bread](./food/bread/speedy-no-knead-bread.md)
 
@@ -20,6 +20,7 @@
 ### Main courses
 
 * [Oven-Roasted Chicken Thighs With Carrots and Yukon Gold Potatoes](./food/mains/oven-roasted-chicken-with-carrots-potatoes.md)
+* [Ratatoille](./food/mains/ratatoille.md)
 
 ### Pasta
 
