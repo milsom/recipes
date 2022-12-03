@@ -36,7 +36,7 @@ foodLinks="$(filter "$markdownLinks" food | sort)"
 
 echo "$start
 
-### Breads
+### Bread
 
 $(filter "$foodLinks" "/bread")
 
