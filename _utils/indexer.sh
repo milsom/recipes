@@ -31,7 +31,7 @@ filter() {
 
 markdownLinks="$(getMarkdownLinks)"
 #holidayLinks="$(getHolidayLinks | sort)"
-#drinkLinks="$(filter "$markdownLinks" drink | sort)"
+drinkLinks="$(filter "$markdownLinks" drink | sort)"
 foodLinks="$(filter "$markdownLinks" food | sort)"
 
 echo "$start
