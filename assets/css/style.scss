@@ -1,0 +1,38 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.markdown-body {
+  a + h1 {
+    margin-top: 0;
+  }
+  li + li {
+    margin-top: 0;
+  }
+}
+
+footer {
+  text-align: right;
+}
+
+@media (prefers-color-scheme: dark) {
+  body, :root {
+    color: #BBBBBB;
+    background-color: #141617;
+  }
+  .markdown-body {
+    h1, h2 {
+      border-bottom-color: #282828;
+    }
+  }
+  a {
+    color: #4b9eee;
+  }
+}
+
+@media print {
+  footer, *.no-print {
+    display: none;
+  }
+}
