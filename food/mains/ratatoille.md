@@ -1,4 +1,4 @@
-# Ratatoille
+# Ratatouille
 
 ## Ingredients
 * 1 large eggplant, unpeeled, cut in 1-inch cubes
