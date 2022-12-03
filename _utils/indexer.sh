@@ -40,13 +40,9 @@ echo "$start
 
 $(filter "$foodLinks" "/bread")
 
-### Breakfasts
+### Soup
 
-$(filter "$foodLinks" breakfast)
-
-### Desserts
-
-$(filter "$foodLinks" desserts)
+$(filter "$foodLinks" "/soup")
 
 ### Main courses
 
@@ -68,17 +64,9 @@ $(filter "$foodLinks" salads)
 
 $(filter "$foodLinks" sandwiches)
 
-### Snacks
+### Vegetables
 
-$(filter "$foodLinks" snacks)
-
-### Soup
-
-$(filter "$foodLinks" soup)
-
-### Cured and pickled
-
-$(filter "$foodLinks" cured-pickled)
+$(filter "$foodLinks" vegetables)
 
 ### Sides and dips
 
@@ -87,6 +75,10 @@ $(filter "$foodLinks" sides-dips)
 ### Condiments, sauces and toppings
 
 $(filter "$foodLinks" condiments-sauces-toppings)
+
+### Desserts
+
+$(filter "$foodLinks" desserts)
 
 ### Cocktails
 
