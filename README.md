@@ -11,15 +11,11 @@
 
 ### Breads
 
+* [Speedy No-Knead Bread](./food/bread/speedy-no-knead-bread.md)
 
+### Soup
 
-### Breakfasts
-
-
-
-### Desserts
-
-
+* [Curried Lentil Soup](./food/soup/curried-lentil-soup.md)
 
 ### Main courses
 
@@ -41,23 +37,19 @@
 
 * [Smash Burgers](./food/sandwiches/smash-burgers.md)
 
-### Snacks
+### Vegetables
 
-
-
-### Soup
-
-* [Curried Lentil Soup](./food/soup/curried-lentil-soup.md)
-
-### Cured and pickled
-
-
+* [Instant Pot Artichokes](./food/vegetables/instant-pot-artichokes.md)
 
 ### Sides and dips
 
 
 
 ### Condiments, sauces and toppings
+
+
+
+### Desserts
 
 
 
