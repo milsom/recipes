@@ -15,6 +15,7 @@
 
 ### Soup
 
+* [Caldo de Queso Con Papas](./food/soup/caldo-de-queso.md)
 * [Curried Lentil Soup](./food/soup/curried-lentil-soup.md)
 
 ### Main courses
