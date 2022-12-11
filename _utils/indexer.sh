@@ -2,12 +2,10 @@
 
 start="# Recipes
 
-
 <https://github.com/milsom/recipes>
 
 ## Categories
-
-[Breads](#breads) &middot; [Breakfasts](#breakfasts) &middot; [Desserts](#desserts) &middot; [Main courses](#main-courses) &middot; [Pasta](#pasta) &middot; [Pizza](#pizza) &middot; [Salads](#salads) &middot; [Sandwiches](#sandwiches) &middot; [Sides and dips](#sides-and-dips) &middot; [Snacks](#snacks) &middot; [Soup](#soup) &middot; [Cured and pickled](#cured-and-pickled) &middot; [Condiments, sauces and toppings](#condiments-sauces-and-toppings) &middot; [Cocktails](#cocktails) &middot; [Coffee and tea](#coffee-and-tea) &middot; [Brewing](#brewing) &middot; [Holiday](#holiday)
+[Breads](#breads) &middot; [Soup](#soup) &middot; [Main courses](#main-courses) &middot; [Vegetables](#vegetables) &middot; [Sandwiches](#sandwiches) &middot; [Cocktails](#cocktails) &middot;
 
 ## Contents"
 
@@ -19,18 +17,11 @@ getMarkdownLinks() {
   done
 }
 
-getHolidayLinks() {
-  for file in $(find . -name '*.md' -not -name "README.md" -type f -exec grep -F -li 'holiday' {} +); do
-    echo "* [$(cat "$file" | head -n 1 | sed 's/^# //')]("$file")"
-  done
-}
-
 filter() {
   echo "$1" | grep -E "$2"
 }
 
 markdownLinks="$(getMarkdownLinks)"
-#holidayLinks="$(getHolidayLinks | sort)"
 drinkLinks="$(filter "$markdownLinks" drink | sort)"
 foodLinks="$(filter "$markdownLinks" food | sort)"
 
@@ -48,6 +39,24 @@ $(filter "$foodLinks" "/soup")
 
 $(filter "$foodLinks" mains)
 
+### Sandwiches
+
+$(filter "$foodLinks" sandwiches)
+
+### Vegetables
+
+$(filter "$foodLinks" vegetables)
+
+### Cocktails
+
+$(filter "$drinkLinks" cocktails)
+
+$end"
+################################
+extrastart=" [Breakfasts](#breakfasts) &middot; [Pasta](#pasta) &middot; [Pizza](#pizza) &middot; [Salads](#salads) &middot; [Coffee and tea](#coffee-and-tea) &middot; [Sides and dips](#sides-and-dips) &middot; [Snacks](#snacks) &middot; [Cured and pickled](#cured-and-pickled) &middot; [Condiments, sauces and toppings](#condiments-sauces-and-toppings) &middot;[Desserts](#desserts) &middot;"
+
+extra="
+
 ### Pasta
 
 $(filter "$foodLinks" pasta)
@@ -59,15 +68,6 @@ $(filter "$foodLinks" pizza)
 ### Salads
 
 $(filter "$foodLinks" salads)
-
-### Sandwiches
-
-$(filter "$foodLinks" sandwiches)
-
-### Vegetables
-
-$(filter "$foodLinks" vegetables)
-
 ### Sides and dips
 
 $(filter "$foodLinks" sides-dips)
@@ -78,10 +78,4 @@ $(filter "$foodLinks" condiments-sauces-toppings)
 
 ### Desserts
 
-$(filter "$foodLinks" desserts)
-
-### Cocktails
-
-$(filter "$drinkLinks" cocktails)
-
-$end"
+$(filter "$foodLinks" desserts)"
