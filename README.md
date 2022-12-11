@@ -1,11 +1,9 @@
 # Recipes
 
-
 <https://github.com/milsom/recipes>
 
 ## Categories
-
-[Breads](#breads) &middot; [Breakfasts](#breakfasts) &middot; [Desserts](#desserts) &middot; [Main courses](#main-courses) &middot; [Pasta](#pasta) &middot; [Pizza](#pizza) &middot; [Salads](#salads) &middot; [Sandwiches](#sandwiches) &middot; [Sides and dips](#sides-and-dips) &middot; [Snacks](#snacks) &middot; [Soup](#soup) &middot; [Cured and pickled](#cured-and-pickled) &middot; [Condiments, sauces and toppings](#condiments-sauces-and-toppings) &middot; [Cocktails](#cocktails) &middot; [Coffee and tea](#coffee-and-tea) &middot; [Brewing](#brewing) &middot; [Holiday](#holiday)
+[Breads](#breads) &middot; [Soup](#soup) &middot; [Main courses](#main-courses) &middot; [Vegetables](#vegetables) &middot; [Sandwiches](#sandwiches) &middot; [Cocktails](#cocktails) &middot;
 
 ## Contents
 
@@ -23,18 +21,6 @@
 * [Oven-Roasted Chicken Thighs With Carrots and Yukon Gold Potatoes](./food/mains/oven-roasted-chicken-with-carrots-potatoes.md)
 * [Ratatouille](./food/mains/ratatoille.md)
 
-### Pasta
-
-
-
-### Pizza
-
-
-
-### Salads
-
-
-
 ### Sandwiches
 
 * [Smash Burgers](./food/sandwiches/smash-burgers.md)
@@ -42,18 +28,6 @@
 ### Vegetables
 
 * [Instant Pot Artichokes](./food/vegetables/instant-pot-artichokes.md)
-
-### Sides and dips
-
-
-
-### Condiments, sauces and toppings
-
-
-
-### Desserts
-
-
 
 ### Cocktails
 
