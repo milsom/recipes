@@ -9,6 +9,7 @@
 
 ### Bread
 
+* [No Knead Bread](./food/bread/no-knead-bread.md)
 * [Speedy No-Knead Bread](./food/bread/speedy-no-knead-bread.md)
 
 ### Soup
