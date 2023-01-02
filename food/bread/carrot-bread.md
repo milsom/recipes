@@ -1,17 +1,23 @@
 # Carrot Bread
 
 ## Ingredients
+
+Dry
 * 2 cups all purpose flour
 * 1 cup sugar
 * 1 1/2 tsp baking soda
 * 1 1/2 tsp cinnamon
 * 1 tsp salt
 * 1/2 tsp pumpkin pie spice (or mix of allspice/clove/ginger/etc)
+
+Wet
 * 2 1/2 cups carrots grated
 * 3 eggs
 * 3/4 cup vegetable oil
 * 1/4 cup milk
 * 1 tsp vanilla
+
+Etc
 * 3/4 cups chopped walnuts
 
 ## Directions
