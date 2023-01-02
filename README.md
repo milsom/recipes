@@ -9,6 +9,7 @@
 
 ### Bread
 
+* [Carrot Bread](./food/bread/carrot-bread.md)
 * [No Knead Bread](./food/bread/no-knead-bread.md)
 * [Speedy No-Knead Bread](./food/bread/speedy-no-knead-bread.md)
 
