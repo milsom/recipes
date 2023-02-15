@@ -35,4 +35,8 @@
 
 * [White Lady](./drink/cocktails/white-lady.md)
 
+### Coffee
+
+* [James Hoffman's V60 recipe](./drink/coffee/james-hottman-v60.md)
+
 _Inspired by <https://github.com/chadlavi/recipes> and <https://github.com/shaniber/recipes>_
