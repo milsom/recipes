@@ -51,6 +51,10 @@ $(filter "$foodLinks" vegetables)
 
 $(filter "$drinkLinks" cocktails)
 
+### Coffee
+
+$(filter "$drinkLinks" coffee)
+
 $end"
 ################################
 extrastart=" [Breakfasts](#breakfasts) &middot; [Pasta](#pasta) &middot; [Pizza](#pizza) &middot; [Salads](#salads) &middot; [Coffee and tea](#coffee-and-tea) &middot; [Sides and dips](#sides-and-dips) &middot; [Snacks](#snacks) &middot; [Cured and pickled](#cured-and-pickled) &middot; [Condiments, sauces and toppings](#condiments-sauces-and-toppings) &middot;[Desserts](#desserts) &middot;"
