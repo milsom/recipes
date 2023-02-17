@@ -9,9 +9,9 @@
 3. Pour 40 grams water and swirl (2Xs amount of coffee).
 4. Let rest until 45 seconds.
 5. Pour 204 grams in the next 30 seconds (60% of total water)
-6. Pour slower and aim for 430 (100%) in next 30 seconds.
+6. Pour slower and aim for 340 (100%) in next 30 seconds.
 7. Grab your spoon and stir twice in each direction.
 8. One final swirl.
 
 ## Reference
-* https://fluentincoffee.com/james-hoffmann-v60/
+* <https://fluentincoffee.com/james-hoffmann-v60/>
