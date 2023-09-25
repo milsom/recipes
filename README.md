@@ -22,6 +22,7 @@
 
 ### Main courses
 
+* [Chile Relleno Casserole](./food/mains/chile-relleno-casserole.md)
 * [Oven-Roasted Chicken Thighs With Carrots and Yukon Gold Potatoes](./food/mains/oven-roasted-chicken-with-carrots-potatoes.md)
 * [Ratatouille](./food/mains/ratatoille.md)
 
