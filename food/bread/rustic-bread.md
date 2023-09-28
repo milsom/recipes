@@ -5,7 +5,7 @@
 * 150g water (room temp)
 * 1 small pinch yeast
 
-### Let the poolish ripen on the counter 4-24 hours, preferably at least 16.
+Let the poolish ripen on the counter 4-24 hours, preferably at least 16.
 
 ## Dough Ingredients
 * 280g water (98f)
@@ -25,4 +25,4 @@ Leave on the counter in a large bowel lined with a floured kitchen cloth for 30-
 5. Bake at 485 covered for 18 minutes, and 485 uncovered for additional 25-30 depending on oven and desired colour.
 
 ## Reference
-* [Brian Langerstrom - YouTube]<https://youtu.be/5mehXzl7yHA?si=2TjEqBXLsTBD0Gs1>
+* [Brian Langerstrom - YouTube](https://youtu.be/5mehXzl7yHA?si=2TjEqBXLsTBD0Gs1)
