@@ -9,6 +9,7 @@
 
 ### Bread
 
+* [Banana Bread](./food/bread/banana_bread.md)
 * [Carrot Bread](./food/bread/carrot-bread.md)
 * [No Knead Bread](./food/bread/no-knead-bread.md)
 * [No Knead Cinnamon Raisin Bread](./food/bread/no-knead-cinnamon-raisin-bread.md)
