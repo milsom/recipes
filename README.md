@@ -3,7 +3,7 @@
 <https://github.com/milsom/recipes>
 
 ## Categories
-[Breads](#breads) &middot; [Soup](#soup) &middot; [Main courses](#main-courses) &middot; [Vegetables](#vegetables) &middot; [Sandwiches](#sandwiches) &middot; [Cocktails](#cocktails) &middot;
+[Breads](#breads) &middot; [Soup](#soup) &middot; [Main courses](#main-courses) &middot; [Sandwiches](#sandwiches) &middot; [Desserts](#desserts) &middot; [Vegetables](#vegetables) &middot; [Cocktails](#cocktails)
 
 ## Contents
 
@@ -36,6 +36,12 @@
 ### Vegetables
 
 * [Instant Pot Artichokes](./food/vegetables/instant-pot-artichokes.md)
+
+### Desserts
+
+* [#3-Ingredient Peanut Butter Cookies](./food/desserts/three-ingredient-peanut-butter-cookies.md)
+* [#Peanut Butter Oatmeal Chocolate Chip Cookies](./food/desserts/peanut-butter-oatmeal-chocolate-chip-cookies.md)
+* [#Sophie Hubble's Peanut Butter Scotch Bars](./food/desserts/peanut-butter-scotch-bars.md)
 
 ### Cocktails
 
