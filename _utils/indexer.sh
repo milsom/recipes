@@ -5,7 +5,7 @@ start="# Recipes
 <https://github.com/milsom/recipes>
 
 ## Categories
-[Breads](#breads) &middot; [Soup](#soup) &middot; [Main courses](#main-courses) &middot; [Vegetables](#vegetables) &middot; [Sandwiches](#sandwiches) &middot; [Cocktails](#cocktails) &middot;
+[Breads](#breads) &middot; [Soup](#soup) &middot; [Main courses](#main-courses) &middot; [Sandwiches](#sandwiches) &middot; [Desserts](#desserts) &middot; [Vegetables](#vegetables) &middot; [Cocktails](#cocktails) &middot;
 
 ## Contents"
 
@@ -46,6 +46,10 @@ $(filter "$foodLinks" sandwiches)
 ### Vegetables
 
 $(filter "$foodLinks" vegetables)
+
+### Desserts
+
+$(filter "$foodLinks" desserts)
 
 ### Cocktails
 
