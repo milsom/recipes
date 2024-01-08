@@ -25,4 +25,4 @@
 6. Remove from the oven and allow to cool on baking sheet for 5 minutes before transferring to a wire rack to cool completely.
 
 ## Reference
-* <https://sallysbakingaddiction.com/peanut-butter-oatmeal-chocolate-chip-cookies/ />
+* <https://sallysbakingaddiction.com/peanut-butter-oatmeal-chocolate-chip-cookies/>
