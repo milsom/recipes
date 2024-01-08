@@ -5,7 +5,7 @@ start="# Recipes
 <https://github.com/milsom/recipes>
 
 ## Categories
-[Breads](#breads) &middot; [Soup](#soup) &middot; [Main courses](#main-courses) &middot; [Sandwiches](#sandwiches) &middot; [Desserts](#desserts) &middot; [Vegetables](#vegetables) &middot; [Cocktails](#cocktails) &middot;
+[Breads](#breads) &middot; [Soup](#soup) &middot; [Main courses](#main-courses) &middot; [Sandwiches](#sandwiches) &middot; [Desserts](#desserts) &middot; [Vegetables](#vegetables) &middot; [Cocktails](#cocktails)
 
 ## Contents"
 
