@@ -39,9 +39,9 @@
 
 ### Desserts
 
-* [#3-Ingredient Peanut Butter Cookies](./food/desserts/three-ingredient-peanut-butter-cookies.md)
-* [#Peanut Butter Oatmeal Chocolate Chip Cookies](./food/desserts/peanut-butter-oatmeal-chocolate-chip-cookies.md)
-* [#Sophie Hubble's Peanut Butter Scotch Bars](./food/desserts/peanut-butter-scotch-bars.md)
+* [3-Ingredient Peanut Butter Cookies](./food/desserts/three-ingredient-peanut-butter-cookies.md)
+* [Peanut Butter Oatmeal Chocolate Chip Cookies](./food/desserts/peanut-butter-oatmeal-chocolate-chip-cookies.md)
+* [Sophie Hubble's Peanut Butter Scotch Bars](./food/desserts/peanut-butter-scotch-bars.md)
 
 ### Cocktails
 
