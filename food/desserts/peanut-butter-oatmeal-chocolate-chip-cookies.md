@@ -24,5 +24,5 @@
 5. Scoop balls of dough, 2 Tablespoons of dough per cookie, and arrange 3 inches apart on the baking sheets. Bake for 12-14 minutes until lightly browned on the sides. The centers will look very soft.
 6. Remove from the oven and allow to cool on baking sheet for 5 minutes before transferring to a wire rack to cool completely.
 
-##Reference
-* <https://sallysbakingaddiction.com/peanut-butter-oatmeal-chocolate-chip-cookies />
+## Reference
+* <https://sallysbakingaddiction.com/peanut-butter-oatmeal-chocolate-chip-cookies/ />
