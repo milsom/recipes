@@ -1,6 +1,6 @@
-#Sophie Hubble's Peanut Butter Scotch Bars
+# Sophie Hubble's Peanut Butter Scotch Bars
 
-##Ingredients
+## Ingredients
 * 1 1/2 cups butter
 * 2 cups peanut butter
 * 2 cups brown sugar
@@ -11,7 +11,7 @@
 * 2 cups chocolate chips
 
 
-##Directions
+## Directions
 1. Cream butter and peanut butter at medium speed for 5 minutes.
 2. Add brown suger gradually and cream for 10-15 minutes. Scrape bottom and sides often.
 3. Add 1 tbl vanilla.

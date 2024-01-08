@@ -1,6 +1,6 @@
-#Peanut Butter Oatmeal Chocolate Chip Cookies
+# Peanut Butter Oatmeal Chocolate Chip Cookies
 
-##Ingredients
+## Ingredients
 
 * 1 and 1/2 cups (188g) all-purpose flour (spooned & leveled)
 * 1 teaspoon baking powder
@@ -15,7 +15,7 @@
 * 2 cups (170g) old-fashioned whole rolled oats
 * 2 and 1/2 cups (450g) semi-sweet chocolate chips
 
-##Directions
+## Directions
 
 1. Whisk the flour, baking powder, baking soda, and salt together in a medium bowl. Set aside.
 2. In a stand mixer fitted with a paddle attachment, beat the butter on medium-high speed until smooth, about 1 minute. Add the granulated sugar and brown sugar and beat on medium-high speed until creamed, about 2 minutes. Add the eggs, peanut butter, and vanilla and beat on high speed until combined, about 1 minute. Scrape down the sides and up the bottom of the bowl and beat again as needed to combine.
