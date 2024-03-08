@@ -27,6 +27,7 @@
 * [Chile Relleno Casserole](./food/mains/chile-relleno-casserole.md)
 * [Gnocchi with Zucchini Ribbons & Parsley Brown Butter](./food/mains/gnocchi-with-zucchini-ribbons.md)
 * [Oven-Roasted Chicken Thighs With Carrots and Yukon Gold Potatoes](./food/mains/oven-roasted-chicken-with-carrots-potatoes.md)
+* [Peanut Butter Noodles](./food/mains/peanut-butter-noodles.md)
 * [Ratatouille](./food/mains/ratatoille.md)
 
 ### Sandwiches
