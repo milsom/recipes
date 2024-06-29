@@ -15,6 +15,7 @@
 * [No Knead Cinnamon Raisin Bread](./food/bread/no-knead-cinnamon-raisin-bread.md)
 * [One Hour (or so) Bagels](./food/bread/one-hour-bagels.md)
 * [Rustic Bread](./food/bread/rustic-bread.md)
+* [Sourdough Bread](./food/bread/basic-sourdough.md)
 * [Speedy No-Knead Bread](./food/bread/speedy-no-knead-bread.md)
 
 ### Soup
