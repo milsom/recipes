@@ -30,6 +30,7 @@
 * [Oven-Roasted Chicken Thighs With Carrots and Yukon Gold Potatoes](./food/mains/oven-roasted-chicken-with-carrots-potatoes.md)
 * [Peanut Butter Noodles](./food/mains/peanut-butter-noodles.md)
 * [Ratatouille](./food/mains/ratatoille.md)
+* [Vietnamese American Garlic Noodles](./food/mains/vietnamese-american-garlic-noodles.md)
 
 ### Sandwiches
 
