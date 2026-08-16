@@ -1,6 +1,8 @@
 name: Update README.md when files change
 
 on:
+  workflow_dispatch:
+    
   push:
     branches:
       - main
