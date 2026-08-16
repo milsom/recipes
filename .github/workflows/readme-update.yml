@@ -1,34 +1,44 @@
 name: Update README.md when files change
 
-on: 
+on:
   push:
     branches:
       - main
-    paths-ignore: 
+    paths-ignore:
       - 'README.md'
       - 'index.md'
-      - '.github/*'
-      - '_layouts/*'
-      - 'assets/*'
-      - '_utils/*'
+      - '.github/**'
+      - '_layouts/**'
+      - 'assets/**'
+      - '_utils/**'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme
+  cancel-in-progress: false
+
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v1
-    - name: Update README.md
-      run: ./_utils/indexer.sh > README.md
-    - name: Commit files
-      run: |
-        git config --global user.email "milsom@gmail.com"
-        git config --global user.name "Dave Milsom"
+      - name: Check out repository
+        uses: actions/checkout@v6
 
-        if [ "$(git status --porcelain)" ]; then
-          git commit -m "Update README" -a
-        fi
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Update README.md
+        run: ./_utils/indexer.sh > README.md
+
+      - name: Commit and push changes
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "README.md is already up to date"
+            exit 0
+          fi
+
+          git config user.email "milsom@gmail.com"
+          git config user.name "Dave Milsom"
+          git add README.md
+          git commit -m "Update README"
+          git push
