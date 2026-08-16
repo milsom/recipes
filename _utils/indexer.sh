@@ -35,6 +35,10 @@ $(filter "$foodLinks" "/bread")
 
 $(filter "$foodLinks" "/soup")
 
+### Salads
+
+$(filter "$foodLinks" salads)
+
 ### Main courses
 
 $(filter "$foodLinks" mains)
