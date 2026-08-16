@@ -1,8 +1,6 @@
 name: Update README.md when files change
 
-on:
-  workflow_dispatch:
-    
+on: 
   push:
     branches:
       - main
@@ -12,7 +10,6 @@ on:
       - '.github/**'
       - '_layouts/**'
       - 'assets/**'
-      - '_utils/**'
 
 permissions:
   contents: write
