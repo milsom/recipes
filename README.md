@@ -3,7 +3,7 @@
 <https://github.com/milsom/recipes>
 
 ## Categories
-[Breads](#breads) &middot; [Soup](#soup) &middot; [Main courses](#main-courses) &middot; [Sandwiches](#sandwiches) &middot; [Desserts](#desserts) &middot; [Vegetables](#vegetables) &middot; [Cocktails](#cocktails)
+[Breads](#breads) &middot; [Soup](#soup) &middot; [Salads](#salads) &middot; [Main courses](#main-courses) &middot; [Sandwiches](#sandwiches) &middot; [Desserts](#desserts) &middot; [Vegetables](#vegetables) &middot; [Cocktails](#cocktails)
 
 ## Contents
 
@@ -22,6 +22,10 @@
 
 * [Caldo de Queso Con Papas](./food/soup/caldo-de-queso.md)
 * [Curried Lentil Soup](./food/soup/curried-lentil-soup.md)
+
+### Salads
+
+* [Snow Pea Salad with Avocado](./food/salads/snow-pea-salad.md)
 
 ### Main courses
 
